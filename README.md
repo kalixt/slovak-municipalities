@@ -1,2 +1,9 @@
 # slovak-municipalities
 List of Slovak municipalities / Zoznam slovenských obcí
+
+A simple list of all Slovak municipalities sorted alphabetically in ASCII order. 
+
+Municipalities with identical names have their respective districts in brackets. 
+E.g.
+Abrahámovce (okres Bardejov) 
+Abrahámovce (okres Kežmarok)

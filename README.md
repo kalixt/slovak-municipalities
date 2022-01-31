@@ -16,4 +16,7 @@ Abrahámovce (okres Kežmarok)</pre>
 <h2>slovak-municipalities-input.html</h2>
 
 An HTML input showing drop-down with Slovak municipalities to select as you type with diacritics or without.
+
 The file includes javascript and css.
+
+No fancy effects.
